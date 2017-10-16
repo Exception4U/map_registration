@@ -4,7 +4,9 @@
 ## CAIR milestone review final
 
 Steeps
-- put tushar.launch in rtabmap
-- generate g2o file of joint trajectory of multiple sessions
-- give path og g2o files in point_clous_publish.ipynb
+- put tushar.launch in ![rtabmap_ros](https://github.com/introlab/rtabmap_ros)
+- generate g2o file of joint trajectory of multiple sessions from our multi-robot framework
+- give path of g2o file in point_cloud_publish.ipynb
+- Run rtabmap ros with tushar.launch
 - run bagfile in same order as joint trajectories in g2o file
+
